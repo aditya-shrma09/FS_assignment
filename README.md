@@ -90,7 +90,7 @@ MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/notes
 ### 1️⃣ Clone the Repository
 
 ```
-git clone <repository-url>
+git clone https://github.com/aditya-shrma09/FS_assignment.git
 cd FS_assignment
 ```
 
